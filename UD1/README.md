@@ -26,7 +26,13 @@ Un lenguaje de marcas organiza información mediante una sintaxis basada en marc
 ```bash
 sudo apt install git
 ```
-4. 
+4. Configurar repositorio git (en la carpeta principal del proyecto)
+```bash
+git init
+git add .
+git commit -m "Comentario descriptivo"
+```
+
 
 ## Descripción de plugins
 
