@@ -18,4 +18,21 @@ Un lenguaje de marcas organiza información mediante una sintaxis basada en marc
 
 1. Instalamos [VS Code](https://code.visualstudio.com/)
 2. Instalamos plugins
+    - [HTML CSS Support](https://marketplace.visualstudio.com/items?itemName=ecmel.vscode-html-css)
+    - Live Preview
+    - Markdown All in One
+    - XML - Red Hat
+3. Instalamos git
+```bash
+sudo apt install git
+```
+4. 
 
+## Descripción de plugins
+
+|Nombre|Imagen|Uso|
+|------|------|---|
+|HTML CSS Support|![HTML CSS Support](img/CSS.png)|Facilitar sintaxis y autocompletado de CSS|
+|Live Preview||Visualizar los HTML formateados|
+|Markdown All in One||Visualizar los Markdown formateados|
+|XML - Red Hat||Facilitar sintaxis y autocompletado de XML|
